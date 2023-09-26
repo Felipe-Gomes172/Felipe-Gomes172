@@ -2,10 +2,8 @@
 
  <div>
    <a href="https://github.com/Felipe-Gomes172">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Gomes172
-&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Gomes172
-&layout=compact&langs_count=6&theme=tokyonight"/>
+    <imgheight="180em"src="https://githubreadmestats.vercel.app/apiusername=FelipeGomes172&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em"src="https://githubreadmestats.vercel.app/api/toplangs/username=FelipeGomes172&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
