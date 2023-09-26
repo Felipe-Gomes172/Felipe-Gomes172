@@ -1,9 +1,8 @@
 
-
  <div>
    <a href="https://github.com/Felipe-Gomes172">
-    <imgheight="180em"src="https://githubreadmestats.vercel.app/apiusername=FelipeGomes172&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em"src="https://githubreadmestats.vercel.app/api/toplangs/username=FelipeGomes172&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Gomes172&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Gomes172&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,10 +13,9 @@
  
 <br>
  
-
  
-<div> 
- <a href="https://www.instagram.com/feliperocha384/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>  
+  <a href="https://www.instagram.com/feliperocha384/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felips172.gomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-gomes-525720292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
